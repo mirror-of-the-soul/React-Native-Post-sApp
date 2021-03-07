@@ -74,16 +74,42 @@ const BottomNavigator = Platform.OS === 'android'
       }
     })
 
+const AboutNavigator = createStackNavigator({
+  About: AboutScreen
+}, navigatorOptions)
+
+const CreateNavigator = createStackNavigator({
+  Create: CreateScreen
+}, navigatorOptions)
+
 
 const MainNavigator = createDrawerNavigator({
   PostTabs: {
-    screen: BottomNavigator
+    screen: BottomNavigator,
+    navigationOptions: {
+      drawerLabel: 'Главная',
+      // drawerIcon: <Ionicons name="ios-star"/>  // добавление иконок
+    }
   },
   About: {
-    screen: AboutScreen
+    screen: AboutNavigator,
+    navigationOptions: {
+      drawerLabel: 'О приложении'
+    }
   },
   Create: {
-    screen: CreateScreen
+    screen: CreateNavigator,
+    navigationOptions: {
+      drawerLabel: 'Создать новый пост'
+    }
+  }
+}, {
+  contentOptions: {
+    activeTintColor: THEME.MAIN_COLOR,
+    labelStyle: {
+      fontFamily: 'open-bold',
+      fontSize: 18
+    }
   }
 })
 
