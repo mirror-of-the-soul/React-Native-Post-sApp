@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b65d115-9d80-4a31-b507-8e9285910713" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/PostScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/PostScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/CreateScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/CreateScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/actions/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/actions/post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/reducers/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/types.js" afterDir="false" />
@@ -49,7 +49,8 @@
       <workItem from="1614424057809" duration="5675000" />
       <workItem from="1614443451358" duration="3927000" />
       <workItem from="1614508260144" duration="11700000" />
-      <workItem from="1615104506409" duration="15037000" />
+      <workItem from="1615104506409" duration="15567000" />
+      <workItem from="1615220563417" duration="3192000" />
     </task>
     <task id="LOCAL-00001" summary="create navigation and drawer">
       <created>1614524666543</created>
@@ -79,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615130010577</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finished remove posts">
+      <created>1615131009494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615131009494</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +97,7 @@
     <MESSAGE value="create navigation and drawer" />
     <MESSAGE value="finished navigation" />
     <MESSAGE value="create Redux" />
-    <option name="LAST_COMMIT_MESSAGE" value="create Redux" />
+    <MESSAGE value="finished remove posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished remove posts" />
   </component>
 </project>
