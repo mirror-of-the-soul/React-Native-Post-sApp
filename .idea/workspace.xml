@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b65d115-9d80-4a31-b507-8e9285910713" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/PhotoPicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/CreateScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/CreateScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/MainScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/MainScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/PostScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/PostScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/actions/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/actions/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/reducers/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +60,9 @@
       <workItem from="1614443451358" duration="3927000" />
       <workItem from="1614508260144" duration="11700000" />
       <workItem from="1615104506409" duration="15567000" />
-      <workItem from="1615220563417" duration="3192000" />
+      <workItem from="1615220563417" duration="3305000" />
+      <workItem from="1615650171007" duration="4620000" />
+      <workItem from="1615732209460" duration="8743000" />
     </task>
     <task id="LOCAL-00001" summary="create navigation and drawer">
       <created>1614524666543</created>
@@ -87,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615131009494</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finished create new element">
+      <created>1615223875188</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615223875188</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +117,7 @@
     <MESSAGE value="finished navigation" />
     <MESSAGE value="create Redux" />
     <MESSAGE value="finished remove posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished remove posts" />
+    <MESSAGE value="finished create new element" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished create new element" />
   </component>
 </project>
