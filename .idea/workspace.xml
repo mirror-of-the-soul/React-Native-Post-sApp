@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b65d115-9d80-4a31-b507-8e9285910713" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/PhotoPicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rn-splash.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/CreateScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/CreateScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/MainScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/MainScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/PostScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/PostScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/actions/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/actions/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/reducers/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +30,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\react_native_project\rn-self-posts\assets" />
       <recent name="D:\react_native_project\rn-self-posts\assets\fonts" />
     </key>
   </component>
@@ -62,7 +53,10 @@
       <workItem from="1615104506409" duration="15567000" />
       <workItem from="1615220563417" duration="3305000" />
       <workItem from="1615650171007" duration="4620000" />
-      <workItem from="1615732209460" duration="8743000" />
+      <workItem from="1615732209460" duration="9049000" />
+      <workItem from="1616328684543" duration="30000" />
+      <workItem from="1616328766435" duration="1210000" />
+      <workItem from="1616330118243" duration="3609000" />
     </task>
     <task id="LOCAL-00001" summary="create navigation and drawer">
       <created>1614524666543</created>
@@ -106,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615223875188</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="created DB, finished application">
+      <created>1615743874900</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615743874900</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +119,7 @@
     <MESSAGE value="create Redux" />
     <MESSAGE value="finished remove posts" />
     <MESSAGE value="finished create new element" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished create new element" />
+    <MESSAGE value="created DB, finished application" />
+    <option name="LAST_COMMIT_MESSAGE" value="created DB, finished application" />
   </component>
 </project>
